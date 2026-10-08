@@ -75,23 +75,23 @@ The report includes multiple analytical views covering:
 
 ### Executive Dashboard
 
-![Executive Dashboard](screenshots/01_Executive_Dashboard.jpg)
+![Executive Dashboard](01_Executive_Dashboard.jpg)
 
 ### Sales Year & Region Analysis
 
-![Sales Year Region Analysis](screenshots/02_Sales_Year_Region_Analysis.jpg)
+![Sales Year Region Analysis](02_Sales_Year_Region_Analysis.jpg)
 
 ### Total Sales, YoY & YTD Analysis
 
-![Total Sales YoY YTD Analysis](screenshots/03_Total_Sales_YOY_YTD_Analysis.jpg)
+![Total Sales YoY YTD Analysis](03_Total_Sales_YOY_YTD_Analysis.jpg)
 
 ### Decomposition Tree Analysis
 
-![Decomposition Tree](screenshots/04_Decomposition_Tree.jpg)
+![Decomposition Tree](04_Decomposition_Tree.jpg)
 
 ### Monthly Sales Analysis
 
-![Monthly Sales Analysis](screenshots/05_Monthly_Sales_Analysis.jpg)
+![Monthly Sales Analysis](05_Monthly_Sales_Analysis.jpg)
 
 ## Project Type
 
