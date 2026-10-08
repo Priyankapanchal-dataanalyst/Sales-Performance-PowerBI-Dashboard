@@ -16,6 +16,7 @@ The dashboard provides an interactive view of key business metrics and allows us
 - Identify monthly sales and profit trends
 - Analyze category and segment performance
 - Explore regional and state-level sales performance
+- Analyze salesperson performance
 - Identify factors contributing to overall sales performance
 
 ## Key KPIs
@@ -74,23 +75,23 @@ The report includes multiple analytical views covering:
 
 ### Executive Dashboard
 
-![Executive Dashboard](screenshots/01_Executive_Dashboard.png)
+![Executive Dashboard](screenshots/01_Executive_Dashboard.jpg)
 
 ### Sales Year & Region Analysis
 
-![Sales Year Region Analysis](screenshots/02_Sales_Year_Region_Analysis.png)
+![Sales Year Region Analysis](screenshots/02_Sales_Year_Region_Analysis.jpg)
 
 ### Total Sales, YoY & YTD Analysis
 
-![Total Sales YoY YTD Analysis](screenshots/03_Total_Sales_YOY_YTD_Analysis.png)
+![Total Sales YoY YTD Analysis](screenshots/03_Total_Sales_YOY_YTD_Analysis.jpg)
 
 ### Decomposition Tree Analysis
 
-![Decomposition Tree](screenshots/04_Decomposition_Tree.png)
+![Decomposition Tree](screenshots/04_Decomposition_Tree.jpg)
 
 ### Monthly Sales Analysis
 
-![Monthly Sales Analysis](screenshots/05_Monthly_Sales_Analysis.png)
+![Monthly Sales Analysis](screenshots/05_Monthly_Sales_Analysis.jpg)
 
 ## Project Type
 
@@ -102,9 +103,9 @@ A publicly available dataset was used for the project. The report layout, visual
 
 ## Power BI Report
 
-The Power BI `.pbix` file is available separately for review.
+The Power BI `.pbix` file is available in this repository.
 
-**Power BI Report:** Coming soon
+**[Download Power BI Report](powerbi/Sales_Performance_Business_Intelligence_Dashboard.pbix)**
 
 ## Skills Demonstrated
 
